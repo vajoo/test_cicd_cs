@@ -1,0 +1,33 @@
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\appsettings.Development.json
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\appsettings.json
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\c# test project.exe
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\c# test project.deps.json
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\c# test project.runtimeconfig.json
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\c# test project.dll
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\c# test project.pdb
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStudioCode-Workspace\c# test project\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.csproj.AssemblyReference.cache
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.AssemblyInfoInputs.cache
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.AssemblyInfo.cs
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets\msbuild.c# test project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets\msbuild.build.c# test project.props
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.c# test project.props
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.c# test project.props
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets.pack.json
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets.build.json
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\staticwebassets.development.json
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\scopedcss\bundle\c# test project.styles.css
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.csproj.CopyComplete
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.dll
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\refint\c# test project.dll
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.pdb
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\c# test project.genruntimeconfig.cache
+D:\VisualStudioCode-Workspace\c# test project\obj\Debug\net7.0\ref\c# test project.dll
